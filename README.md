@@ -1,1 +1,1 @@
-# Algorithms
+Tasks on different graph algorithms.
